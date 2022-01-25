@@ -19,3 +19,5 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 ---
 Creado con ❤️
 por [Martin](https://github.com/marioneta009) 😊
+
+Colaboradora Zinthia Moreno
